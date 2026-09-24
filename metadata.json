@@ -1,0 +1,7 @@
+{
+  "name": "CheckDR — Fast SEO Analysis & Domain Audit Platform",
+  "description": "Check Domain Rating, technical SEO, backlinks, performance, metadata, redirects, and run comprehensive website crawls with actionable recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
